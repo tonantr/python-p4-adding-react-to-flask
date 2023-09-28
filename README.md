@@ -245,7 +245,7 @@ This has been a brief review of concepts from Phase 2 and the beginning of
 Phase 4. Hopefully, this served as a good reminder of how to use `fetch()`,
 process `fetch()` data, and implement CORS! We will elaborate on these concepts
 and learn how to improve connections between full-stack application clients and
-servers in the coming lessons.
+servers in the coming lessons...
 
 ***
 
